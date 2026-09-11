@@ -1,0 +1,1 @@
+All files here are a subject to copyright everyhting in this respitory is property of glasspickle and you may not redistrubute any files foudn in this respitory without a written allowance note from glasspickle.
