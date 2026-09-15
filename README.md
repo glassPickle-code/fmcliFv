@@ -41,4 +41,4 @@ Please note that this repository and its releases contain **compiled Windows bin
 ### A Note on Our "PreJarred" Release
 You'll notice this build is marked as a **PreJarred** version. Don't worry—while tech circles typically use labels like "beta," we like to think of *PreJarred* like freshly preserved goods: everything is carefully packed, sealed, and ready to use right out of the box, even if we are still adding fresh touches as we grow. 
 
-If you run into any quirks or want to share your feedback as you test out the binary, we're right here with you on the journey. Enjoy exploring the tool, and thank you for supporting GlassPickle! 🫙✨
+If you run into any quirks or want to share your feedback as you test out the binary, we're right here with you on the journey. Enjoy exploring the tool, and thank you for supporting GlassPickle! 
